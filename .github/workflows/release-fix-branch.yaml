@@ -12,10 +12,9 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: google-github-actions/release-please-action@v4
+      - uses: google-github-actions/release-please-action@v3
         with:
           release-type: 'node'
           package-name: 'your-package-name'
-          release-as: '5.1.1'
-          targetBranch: 'fix'
+          target-branch: 'fix'
           
