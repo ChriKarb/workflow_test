@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/ChriKarb/workflow_test/compare/v2.0.0...v2.1.0) (2024-02-27)
+
+
+### Features
+
+* SHOULD NOT TRIGGER SOMETHING ([44620ba](https://github.com/ChriKarb/workflow_test/commit/44620bad160f617c2edeb686b5b9f9759b10da24))
+
+
+### Bug Fixes
+
+* a needed fix in 2.0 able to backport to 1.x ([660e575](https://github.com/ChriKarb/workflow_test/commit/660e575634cd2e5284a18cf2d124375b87ec4227))
+
 ## [2.0.0](https://github.com/ChriKarb/workflow_test/compare/v1.1.0...v2.0.0) (2024-02-27)
 
 
