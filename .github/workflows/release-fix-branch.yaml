@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - fix
-      - main
 permissions:
   contents: write
   pull-requests: write 
@@ -18,4 +17,5 @@ jobs:
           release-type: 'node'
           package-name: 'your-package-name'
           release-as: '5.1.1'
+          targetBranch: 'fix'
           
