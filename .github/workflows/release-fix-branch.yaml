@@ -16,4 +16,5 @@ jobs:
         with:
           release-type: 'node'
           package-name: 'your-package-name'
-
+          release-as: '1.1.1'
+          
